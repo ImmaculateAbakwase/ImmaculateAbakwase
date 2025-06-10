@@ -62,7 +62,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 ### 🌟 Xtreative Market
 **Tech Stack:** React Native, Django, Neon Postgres
 
-###### Xtreative market, an online eCommerce platform that connects local creatives to customers, helping them sell products efficiently, manage businesses, and access financial support.
+##### Xtreative market, an online eCommerce platform that connects local creatives to customers, helping them sell products efficiently, manage businesses, and access financial support.
 
 - Developed a full-stack multi-vendor eCommerce platform allowing creatives to register as vendors, list products, manage inventory, and process orders.
 - Implemented wallet-based transactions, vendor earnings tracking, and a loan eligibility system driven by sales performance metrics.
