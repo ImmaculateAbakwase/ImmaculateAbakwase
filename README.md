@@ -19,7 +19,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 ---
 
 🛠️ Tech Stack
-<div align="center">
+<div">
 <table>
 <tr>
 <td align="center" width="70%">
