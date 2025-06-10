@@ -22,7 +22,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="70%">
 Frontend & Languages
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Languages"/>
@@ -31,7 +31,7 @@ Frontend & Languages
   <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend Frameworks"/>
 </p>
 </td>
-<td align="center" width="50%">
+<td align="center" width="70%">
 Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Runtime"/>
@@ -42,7 +42,7 @@ Backend & Databases
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="70%">
 Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
@@ -51,7 +51,7 @@ Mobile Development
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 </td>
-<td align="center" width="50%">
+<td align="center" width="70%">
 Tools & Design
 <p>
   <img src="https://skillicons.dev/icons?i=github,wordpress" alt="Development Tools"/>
