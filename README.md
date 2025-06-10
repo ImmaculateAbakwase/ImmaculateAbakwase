@@ -30,7 +30,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
       <td align="center" width="50%">
         <h3>⚙️ Backend & Databases</h3>
         <p>
-          <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" alt="Backend Technologies"/>
+          <img src="https://skillicons.dev/icons?i=nodejs,mongodb,neon postgres" alt="Backend Technologies"/>
         </p>
       </td>
     </tr>
@@ -59,10 +59,15 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ## 💼 Featured Projects
 
-### 🌟 Project Name 1
-**Tech Stack:** React.js, Node.js, MongoDB
-- Brief description of your project
-- Key features and achievements
+### 🌟 Xtreative Market
+**Tech Stack:** React Native, Django, Neon Postgres
+Xtreative market, an online eCommerce platform that connects local creatives to customers, helping them sell products efficiently, manage businesses, and access financial support.
+
+ -Developed a full-stack multi-vendor eCommerce platform allowing creatives to register as vendors, list products, manage inventory, and process orders.
+ -Implemented wallet-based transactions, vendor earnings tracking, and a loan eligibility system driven by sales performance metrics.
+ -Integrated dynamic order filtering, receipt generation, and real-time notifications to enhance vendor experience and platform usability.
+ -Delivered vendor-specific data access controls to ensure each vendor views only their relevant sales in a shared environment.
+ -Technologies: React Native, Django REST Framework, PostgreSQL,   GitHub, Agile
 - [Live Demo](link) | [GitHub Repo](link)
 
 ### 🌟 Project Name 2
