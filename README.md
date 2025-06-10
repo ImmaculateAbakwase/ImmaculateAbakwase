@@ -112,7 +112,7 @@ console.log("Always coding, always growing! 🚀");
 
 <div align="center">
   
-### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💬 "The most amazing thing is my ability to quickly adapt to new technologies and deliver professional-quality solutions."
 
 **Thanks for visiting my profile! Let's build something amazing together.** 🚀
 
