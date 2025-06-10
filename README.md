@@ -109,16 +109,15 @@ console.log("Always coding, always growing! 🚀");
 ## 🤝 Let's Connect
 
 <div align="center">
-  
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://www.linkedin.com/in/immaculateabakwase/" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/immaculateabakwase/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail"/>
+  <a href="mailto:immaculateabakwase@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://immy.netlify.app/" alt="Portfolio"/>
+  <a href="https://immy.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
