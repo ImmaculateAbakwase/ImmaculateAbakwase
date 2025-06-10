@@ -24,7 +24,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
   
 ### Languages & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills"/>
 </p>
 
 ### Backend & Databases  
@@ -40,7 +40,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ### Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=github,figma,vscode" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=github,wordpress,figma,vscode" alt="Tools"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </p>
 
