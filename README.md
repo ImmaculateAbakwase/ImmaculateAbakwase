@@ -60,7 +60,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 ## 💼 Featured Projects
 
 ### 🌟 Xtreative Market
-**Tech Stack:** React Native, Django, Neon Postgres
+**Tech Stack:** React Native, Django REST Framework, PostgreSQL,   GitHub, Agile
 
 #### Xtreative market, an online eCommerce platform that connects local creatives to customers, helping them sell products efficiently, manage businesses, and access financial support.
 
@@ -68,21 +68,26 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 - Implemented wallet-based transactions, vendor earnings tracking, and a loan eligibility system driven by sales performance metrics.
 - Integrated dynamic order filtering, receipt generation, and real-time notifications to enhance vendor experience and platform usability.
 - Delivered vendor-specific data access controls to ensure each vendor views only their relevant sales in a shared environment.
-- Technologies: React Native, Django REST Framework, PostgreSQL,   GitHub, Agile
 
 
+### 🌟 KGL Inventory Management System
+**Tech Stack:** Javascript, Node.js, HTML, CSS, Bootstrap, Mongodb
+#### KGL, a wholesale produce distributor, was manually managing procurement and sales using paper records, leading to inefficiency, errors, and lack of real-time oversight.
 
-### 🌟 Project Name 2
-**Tech Stack:** React Native, Node.js, PostgreSQL
-- Brief description of your mobile project
-- Key features and achievements
-- [GitHub Repo](link)
+- Developed a digital stock and sales management system for their two branches.
+- Implemented secure user roles (manager and sales agents), sales tracking, credit purchases, and automatic stock updates.
+- Integrated receipt generation and branch-specific reporting for accurate business oversight.
+- Delivered a solution that reduced manual workload and improved record accuracy.
 
-### 🌟 Project Name 3
+
+### 🌟 PERSONAL WEBSITE
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
-- Brief description of your web project
-- Key features and achievements
-- [Live Demo](link) | [GitHub Repo](link)
+#### A responsive and visually engaging portfolio website showcasing my skills, projects, and services as a software developer and UI/UX designer.
+
+- Designed a clean, user-friendly layout to highlight my professional background and featured work.
+- Implemented smooth navigation, responsive design, and interactive elements for a seamless browsing experience across devices.
+- Included direct contact options, downloadable résumé, and project showcases to support personal branding and job applications.
+- [Live Demo](https://immy.netlify.app/)
 
 ---
 
