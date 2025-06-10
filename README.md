@@ -18,32 +18,53 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ---
 
-## 🛠️ Tech Stack
-
+🛠️ Tech Stack
 <div align="center">
-  
-### Languages & Frontend
+<table>
+<tr>
+<td align="center" width="50%">
+Frontend & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Languages"/>
 </p>
-
-### Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend Frameworks"/>
 </p>
-
-### Mobile Development
+</td>
+<td align="center" width="50%">
+Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend Runtime"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases"/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+Mobile Development
 <p>
   <img src="https://skillicons.dev/icons?i=react" alt="React Native"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
-
-### Tools & Design
+</td>
+<td align="center" width="50%">
+Tools & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=github,wordpress,figma,vscode" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=github,wordpress" alt="Development Tools"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode" alt="Design & Editor"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
 </p>
-
+</td>
+</tr>
+</table>
 </div>
 
 ## 💼 Featured Projects
