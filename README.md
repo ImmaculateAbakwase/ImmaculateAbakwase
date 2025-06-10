@@ -1,10 +1,12 @@
-👋 Hello, I'm ABAKWASE IMMACULATE
+# 👋 Hello, I'm ABAKWASE IMMACULATE
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;Mobile+App+Developer;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22">
 </div>
 
-🚀 About Me
+---
+
+## 🚀 About Me
 
 I'm a passionate full-stack developer who loves creating seamless digital experiences. From crafting responsive web applications to building mobile solutions, I enjoy turning ideas into reality through clean, efficient code.
 
@@ -14,17 +16,18 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 - 🎯 Goal-oriented with strong problem-solving skills
 - 📱 Experienced in both web and mobile development
 
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   
-Languages & Frontend
+### Languages & Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills"/>
 </p>
 
-Backend & Databases  
+### Backend & Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" alt="Backend Skills"/>
 </p>
