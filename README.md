@@ -24,7 +24,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
   
 ### Languages & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress" alt="Frontend Skills"/>
 </p>
 
 ### Backend & Databases  
@@ -46,22 +46,6 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-
 ## 💼 Featured Projects
 
 ### 🌟 Project Name 1
@@ -82,15 +66,6 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 - Key features and achievements
 - [Live Demo](link) | [GitHub Repo](link)
 
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -113,7 +88,7 @@ console.log("Always coding, always growing! 🚀");
   <a href="https://www.linkedin.com/in/immaculateabakwase/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:immaculateabakwase@gmail.com">
+  <a href="immaculateabakwase@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://immy.netlify.app/">
