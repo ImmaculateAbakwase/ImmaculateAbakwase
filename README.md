@@ -88,9 +88,9 @@ console.log("Always coding, always growing! 🚀");
   <a href="https://www.linkedin.com/in/immaculateabakwase/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="immaculateabakwase@gmail.com">
+  <a href="mailto:immaculateabakwase@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a>  
   <a href="https://immy.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
