@@ -61,12 +61,6 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💼 Featured Projects
 
@@ -118,26 +112,13 @@ console.log("Always coding, always growing! 🚀");
   
 <p>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://www.linkedin.com/in/immaculateabakwase/" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" alt="Gmail"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<!-- Alternative larger social icons -->
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://immy.netlify.app/" alt="Portfolio"/>
   </a>
 </p>
 
@@ -150,17 +131,5 @@ console.log("Always coding, always growing! 🚀");
 ### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 **Thanks for visiting my profile! Let's build something amazing together.** 🚀
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 📫 Quick Stats
-
-<div align="center">
-
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
