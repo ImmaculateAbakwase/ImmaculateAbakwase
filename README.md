@@ -1,11 +1,11 @@
-# 👋 Hello, I'm ABAKWASE IMMACULATE
+# 👋 Hello, I'm Abakwase Immaculate
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;Mobile+App+Developer;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=58a6ff&vCenter=true&size=22">
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 I'm a passionate full-stack developer who loves creating seamless digital experiences. From crafting responsive web applications to building mobile solutions, I enjoy turning ideas into reality through clean, efficient code.
 
 - 🔭 Currently working on exciting web and mobile projects
@@ -16,7 +16,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
 <div align="center">
   <table>
@@ -57,7 +57,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ---
 
-## 💼 Featured Projects
+## 💼 FEATURED PROJECTS
 
 ### 🌟 Xtreative Market
 **Tech Stack:** React Native, Django REST Framework, PostgreSQL,   GitHub, Agile
@@ -80,7 +80,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 - Delivered a solution that reduced manual workload and improved record accuracy.
 
 
-### 🌟 PERSONAL WEBSITE
+### 🌟 Personal Website
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 #### A responsive and visually engaging portfolio website showcasing my skills, projects, and services as a software developer and UI/UX designer.
 
@@ -91,7 +91,7 @@ I'm a passionate full-stack developer who loves creating seamless digital experi
 
 ---
 
-## 🎯 Current Focus
+## 🎯 CURRENT FOCUS
 
 ```javascript
 const currentGoals = {
@@ -104,7 +104,7 @@ console.log("Always coding, always growing! 🚀");
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 LET'S CONNECT
 
 <div align="center">
 <p>
