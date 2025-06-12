@@ -107,7 +107,7 @@ console.log("Always coding, always growing! 🚀");
 ## 🤝 LET'S CONNECT
 
 <div align="center">
-  <p style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <p style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/immaculateabakwase/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 40px;"/>
     </a>
