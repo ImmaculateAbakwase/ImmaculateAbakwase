@@ -107,18 +107,19 @@ console.log("Always coding, always growing! 🚀");
 ## 🤝 LET'S CONNECT
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; align-items: center; padding: 20px 0;">
-    <a href="https://www.linkedin.com/in/immaculateabakwase/">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 40px;"/>
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+    <a href="https://www.linkedin.com/in/immaculateabakwase/" style="margin: 0 10px;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 40px;" />
     </a>
-    <a href="mailto:immaculateabakwase@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;"/>
-    </a>  
-    <a href="https://immy.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="height: 40px;"/>
+    <a href="mailto:immaculateabakwase@gmail.com" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;" />
+    </a>
+    <a href="https://immy.netlify.app/" style="margin: 0 10px;">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="height: 40px;" />
     </a>
   </div>
 </div>
+
 
 
 ---
