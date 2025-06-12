@@ -106,22 +106,19 @@ console.log("Always coding, always growing! 🚀");
 
 ## 🤝 LET'S CONNECT
 
-<div>
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 30px; padding: 20px;">
-    <a href="https://www.linkedin.com/in/immaculateabakwase/">
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/immaculateabakwase/" style="margin: 0 15px;">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 40px;" />
     </a>
-    <a href="mailto:immaculateabakwase@gmail.com">
+    <a href="mailto:immaculateabakwase@gmail.com" style="margin: 0 15px;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;" />
     </a>
-    <a href="https://immy.netlify.app/">
+    <a href="https://immy.netlify.app/" style="margin: 0 15px;">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="height: 40px;" />
     </a>
-  </div>
+  </p>
 </div>
-
-
-
 
 ---
 
