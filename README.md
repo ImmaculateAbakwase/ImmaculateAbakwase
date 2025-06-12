@@ -106,7 +106,7 @@ console.log("Always coding, always growing! 🚀");
 
 ## 🤝 LET'S CONNECT
 
-<div align="center">
+<div align="center" padding="20%">
 <p>
   <a href="https://www.linkedin.com/in/immaculateabakwase/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
